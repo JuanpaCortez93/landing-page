@@ -1,0 +1,352 @@
+{
+    "en": {
+        "sections": [
+            {
+                "id": "hero",
+                "title": "I’m Juan Cortez\nFull Stack Developer ",
+                "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, volutpat feugiat placerat lobortis. Natoque rutrum semper sed suspendisse nunc lectus.",
+                "action": {
+                    "text": "Get Started",
+                    "actionKey": "Contact me!"      
+                }
+            },
+
+            {
+                "id": "services",
+                "title": "My Services",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "services_1",
+                        "title": "Web Development",
+                        "subtitle": "Blog, e-commerce and more",
+                        "icon": "images/hero/azure.png"
+                    },
+                    {
+                        "id": "services_2",
+                        "title": "Low-Code & No-Code Development",
+                        "subtitle": "Business automatization and more",
+                        "icon": "images/hero/angular.png"
+                    },
+                    {
+                        "id": "services_3",
+                        "title": "Node",
+                        "subtitle": "Web Development",
+                        "icon": "images/hero/node.png"
+                    }
+                ]
+            },
+
+            {
+                "id": "technologies",
+                "title": "My Stack",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "technologies_angular",
+                        "title": "Angular",
+                        "icon": "images/technologies/angular.png"
+                    },
+                    {
+                        "id": "technologies_react",
+                        "title": "React",
+                        "icon": "images/technologies/react.png"
+                    },
+                    {
+                        "id": "technologies_nodejs",
+                        "title": "NodeJS",
+                        "icon": "images/technologies/node.png"
+                    },
+                    {
+                        "id": "technologies_powerplatform",
+                        "title": "Power Platform",
+                        "icon": "images/technologies/powerplatform.png"
+                    },
+                    {
+                        "id": "technologies_azure",
+                        "title": "Azure",
+                        "icon": "images/technologies/azure.png"
+                    }
+                ]
+            },
+
+            {
+                "id": "work_experience",
+                "title": "Work Experience",
+                "subtitle": "4+ years building scalable web applications for US-based teams across Ecuador and the United States.",
+                "catalog": [
+                    {
+                        "id": "work_experience_1",
+                        "institution": "MushroomSoft",
+                        "role": "Software Developer",
+                        "period": "Jul 2024 - Present",
+                        "location": "Ecuador / USA",
+                        "title": "Full Stack Development & Automation",
+                        "subtitle": "Built and deployed React + TypeScript landing pages, designed NestJS + Angular full stack apps with microservices architecture on MongoDB and PostgreSQL, and automated business workflows using N8N and Microsoft Power Platform."
+                    },
+                    {
+                        "id": "work_experience_2",
+                        "institution": "Computer Solutions East",
+                        "role": "Software Developer",
+                        "period": "Oct 2023 - Jan 2024",
+                        "location": "Ecuador / USA / India",
+                        "title": "HR Management Web App",
+                        "subtitle": "Built a BambooHR-inspired HR management app using C# .NET MVC with MS SQL, including role-based access control and employee management modules."
+                    },
+                    {
+                        "id": "work_experience_3",
+                        "institution": "Capmation",
+                        "role": "Software Developer L1",
+                        "period": "Oct 2022 - Jun 2023",
+                        "location": "USA",
+                        "title": "Automotive Repricing & Web Systems",
+                        "subtitle": "Built Azure HTTP Trigger functions for automotive parts repricing using Python (SQLAlchemy, NumPy, Pandas), refactored web systems with C# .NET MVC on Azure, and wrote technical documentation in English."
+                    },
+                    {
+                        "id": "work_experience_4",
+                        "institution": "ITECH",
+                        "role": "Engineering Manager & Full Stack Developer",
+                        "period": "Mar 2021-Sep 2022",
+                        "location": "Ecuador",
+                        "title": "Internal Software Products",
+                        "subtitle": "Led development of 3 internal software products including real-time inventory control systems and IoT price tags."
+                    }
+                ]
+            },
+
+            {
+                "id": "education",
+                "title": "Education",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "education_1",
+                        "institution": "Escuela Politécnica Nacional",
+                        "role": "Student",
+                        "period": "2013-2021",
+                        "title": "Electronics & Telecommunications Engineering",
+                        "subtitle": "Focused on software systems, digital electronics, and telecommunications infrastructure."
+                    }
+                ]
+            },
+
+            {
+                "id": "certifications",
+                "title": "Certifications",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "certifications_1",
+                        "institution": "Microsoft",
+                        "role": "Certified",
+                        "period": "2026",
+                        "title": "AZ-900 - Azure Fundamentals",
+                        "subtitle": "Cloud concepts, Azure services, security, privacy, compliance and trust."
+                    },
+                    {
+                        "id": "certifications_2",
+                        "institution": "Microsoft",
+                        "role": "Certified",
+                        "period": "2025",
+                        "title": "PL-900 - Power Platform Fundamentals",
+                        "subtitle": "Power BI, Power Apps, Power Automate and business process automation."
+                    },
+                    {
+                        "id": "certifications_3",
+                        "institution": "Scrum Alliance",
+                        "role": "Certified",
+                        "period": "2020",
+                        "title": "SCRUM - Agile Methodologies",
+                        "subtitle": "Sprint planning, backlog management, daily standups and agile delivery."
+                    }
+                ]
+            },
+
+            {
+                "id": "contact_info",
+                "title": "Contact Information",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "action": {
+                    "text": "Get Started",
+                    "actionKey": "Contact me!"      
+                }
+            }
+        ]
+    },
+
+    "es": {
+        "sections": [
+            {
+                "id": "hero",
+                "title": "Soy Juan Cortez\nDesarrollador Full Stack",
+                "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, volutpat feugiat placerat lobortis. Natoque rutrum semper sed suspendisse nunc lectus.",
+                "action": {
+                    "text": "Empecemos",
+                    "actionKey": "Contact me!"      
+                }
+            },
+
+            {
+                "id": "services",
+                "title": "Mis Servicios",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "services_1",
+                        "title": "Desarrollo Web",
+                        "subtitle": "Blog, e-commerce y más",
+                        "icon": "images/hero/azure.png"
+                    },
+                    {
+                        "id": "services_2",
+                        "title": "Desarrollo Low-Code & No-Code",
+                        "subtitle": "Automatización de negocios y más",
+                        "icon": "images/hero/angular.png"
+                    },
+                    {
+                        "id": "services_3",
+                        "title": "Node",
+                        "subtitle": "Desarrollo Web",
+                        "icon": "images/hero/node.png"
+                    }
+                ]
+            },
+
+            {
+                "id": "technologies",
+                "title": "Mi Stack",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "technologies_angular",
+                        "title": "Angular",
+                        "icon": "images/technologies/angular.png"
+                    },
+                    {
+                        "id": "technologies_react",
+                        "title": "React",
+                        "icon": "images/technologies/react.png"
+                    },
+                    {
+                        "id": "technologies_nodejs",
+                        "title": "NodeJS",
+                        "icon": "images/technologies/node.png"
+                    },
+                    {
+                        "id": "technologies_powerplatform",
+                        "title": "Power Platform",
+                        "icon": "images/technologies/powerplatform.png"
+                    },
+                    {
+                        "id": "technologies_azure",
+                        "title": "Azure",
+                        "icon": "images/technologies/azure.png"
+                    }
+                ]
+            },
+
+            {
+                "id": "work_experience",
+                "title": "Experiencia Laboral",
+                "subtitle": "4+ años construyendo aplicaciones web escalables para equipos en EE.UU. desde Ecuador y Estados Unidos.",
+                "catalog": [
+                    {
+                        "id": "work_experience_1",
+                        "institution": "MushroomSoft",
+                        "role": "Desarrollador de Software",
+                        "period": "Jul 2024 - Presente",
+                        "location": "Ecuador / USA",
+                        "title": "Desarrollo Full Stack & Automatización",
+                        "subtitle": "Construí y desplegué landing pages con React + TypeScript, diseñé apps full stack con NestJS + Angular en arquitectura de microservicios con MongoDB y PostgreSQL, y automaticé flujos de negocio con N8N y Microsoft Power Platform."
+                    },
+                    {
+                        "id": "work_experience_2",
+                        "institution": "Computer Solutions East",
+                        "role": "Desarrollador de Software",
+                        "period": "Oct 2023 - Ene 2024",
+                        "location": "Ecuador / USA / India",
+                        "title": "App de Gestión de RRHH",
+                        "subtitle": "Construí una app web de RRHH inspirada en BambooHR con C# .NET MVC y MS SQL, incluyendo control de acceso por roles y módulos de gestión de empleados."
+                    },
+                    {
+                        "id": "work_experience_3",
+                        "institution": "Capmation",
+                        "role": "Desarrollador de Software N1",
+                        "period": "Oct 2022 - Jun 2023",
+                        "location": "USA",
+                        "title": "Repricing Automotriz & Sistemas Web",
+                        "subtitle": "Construí funciones Azure HTTP Trigger para repricing de partes automotrices con Python (SQLAlchemy, NumPy, Pandas), refactoricé sistemas web con C# .NET MVC en Azure y redacté documentación técnica en inglés."
+                    },
+                    {
+                        "id": "work_experience_4",
+                        "institution": "ITECH",
+                        "role": "Gerente de Ingeniería & Desarrollador Full Stack",
+                        "period": "Mar 2021 - Sep 2022",
+                        "location": "Ecuador",
+                        "title": "Productos de Software Internos",
+                        "subtitle": "Lideré el desarrollo de 3 productos de software internos incluyendo control de inventario en tiempo real y etiquetas de precios IoT."
+                    }
+                ]
+            },
+
+            {
+                "id": "education",
+                "title": "Educación",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "education_1",
+                        "institution": "Escuela Politécnica Nacional",
+                        "role": "Estudiante",
+                        "period": "2013-2021",
+                        "title": "Ingeniería en Electrónica y Telecomunicaciones",
+                        "subtitle": "Enfocado en sistemas de software, electrónica digital e infraestructura de telecomunicaciones."
+                    }
+                ]
+            },
+
+            {
+                "id": "certifications",
+                "title": "Certificaciones",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "catalog": [
+                    {
+                        "id": "certifications_1",
+                        "institution": "Microsoft",
+                        "role": "Certificado",
+                        "period": "2026",
+                        "title": "AZ-900 - Azure Fundamentals",
+                        "subtitle": "Conceptos de nube, servicios de Azure, seguridad, privacidad, cumplimiento y confianza."
+                    },
+                    {
+                        "id": "certifications_2",
+                        "institution": "Microsoft",
+                        "role": "Certificado",
+                        "period": "2025",
+                        "title": "PL-900 - Power Platform Fundamentals",
+                        "subtitle": "Power BI, Power Apps, Power Automate y automatización de procesos de negocio."
+                    },
+                    {
+                        "id": "certifications_3",
+                        "institution": "Scrum Alliance",
+                        "role": "Certificado",
+                        "period": "2020",
+                        "title": "SCRUM - Metodologías Ágiles",
+                        "subtitle": "Planificación de sprints, gestión del backlog, daily standups y entrega ágil."
+                    }
+                ]
+            },
+
+            {
+                "id": "contact_info",
+                "title": "Información de Contacto",
+                "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+                "action": {
+                    "text": "Empecemos",
+                    "actionKey": "Contact me!"      
+                }
+            }
+        ]
+    }
+
+}
