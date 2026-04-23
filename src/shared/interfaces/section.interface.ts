@@ -1,4 +1,4 @@
-export interface ISections {
+export interface ISectionsJson {
     en: En;
     es: En;
 }

@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  /*FONTS*/
+  --font-primary: "Epilogue", sans-serif;
+
+  /*COLORS*/
+  --white: #FFFFFF;
+}
+
+
+html {
+    background-color: var(--white);
+    font-family: var(--font-primary);
+}

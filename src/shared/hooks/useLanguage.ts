@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next'
 import { setLang } from '../cache/language.cache'
 
 export const useLanguage = () => {
-  const { t, i18n } = useTranslation()
+  const { t, i18n } = useTranslation();
 
   const currentLang = i18n.language
 
@@ -16,6 +16,7 @@ export const useLanguage = () => {
     i18n.changeLanguage(lang)
     setLang(lang)
   }
+
 
   return {
     t,

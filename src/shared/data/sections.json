@@ -3,8 +3,8 @@
         "sections": [
             {
                 "id": "hero",
-                "title": "I’m Juan Cortez\nFull Stack Developer ",
-                "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, volutpat feugiat placerat lobortis. Natoque rutrum semper sed suspendisse nunc lectus.",
+                "title": "I’m Juan Pablo\nFull-Stack Developer",
+                "subtitle": "I have 4+ years of experience building scalable web applications for US-based and international companies. I've worked remotely with teams in the US, India or Fiji, delivering production-ready applications from landing pages to full data management systems.  Open to full-time remote opportunities.",
                 "action": {
                     "text": "Get Started",
                     "actionKey": "Contact me!"      
